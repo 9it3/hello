@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					9D36487F1E8FD3380011EB82 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 4FMX2H9CEK;
 						ProvisioningStyle = Automatic;
 					};
 					9D3648931E8FD3390011EB82 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4FMX2H9CEK;
 				INFOPLIST_FILE = hello/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.muntasir..hello;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4FMX2H9CEK;
 				INFOPLIST_FILE = hello/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.muntasir..hello;
